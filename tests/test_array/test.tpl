@@ -1,1 +1,0 @@
-${foo[$bar[baz]][${foo[b]}bla]}
