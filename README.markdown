@@ -1,1 +1,1 @@
-This project was renamed to *STE Template Engine* and is now located at [github.com/kch42/ste](https://github.com/kch42/ste)
+This project was renamed to *STE Template Engine* and is now located at [github.com/silvasur/ste](https://github.com/silvasur/ste)
